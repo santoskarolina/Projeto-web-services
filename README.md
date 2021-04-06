@@ -1,6 +1,4 @@
-# Projeto-web-services
-
-# :computer: :pushpin: Aplicação de ordem de pedidos.
+# :computer: :pushpin: Projeto-web-services
 
 
 #### :small_blue_diamond: Tecnologias usadas no desenvolvimento:
