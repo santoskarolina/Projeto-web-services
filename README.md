@@ -11,7 +11,7 @@
 - Banco de dados relacional postgresql
 - Deploy da aplicação no Heroku
 
-##### :small_blue_diamond: Métodos para entidade orders:
+##### :small_blue_diamond: Métodos para entidade Users:
 - inserir
 - deletar
 - atualizar
