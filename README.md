@@ -9,6 +9,7 @@
 - JPA para acessar o banco de dados
 - Padrão do projeto Dao
 - Banco de dados relacional postgresql
+- Deploy da aplicação no Heroku
 
 ##### :small_blue_diamond: Métodos para entidade orders:
 - inserir
