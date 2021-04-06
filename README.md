@@ -18,7 +18,7 @@
 - encontrar todos
 - encontrar pelo ID
 
-##### :small_blue_diamond: Métodos para entidade Ordes:
+##### :small_blue_diamond: Métodos para entidade Orders:
 - encontrar todos
 - encontrar pelo ID
 
