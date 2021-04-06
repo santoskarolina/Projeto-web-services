@@ -9,7 +9,7 @@
 - JPA para acessar o banco de dados
 - Padrão do projeto Dao
 - Banco de dados relacional postgresql
-- 
+
 ##### :small_blue_diamond: Métodos para entidade orders:
 - inserir
 - deletar
