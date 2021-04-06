@@ -1,13 +1,15 @@
-# :computer: :pushpin: Projeto-web-services
+# :computer: :pushpin: Projeto web services
 
 
 #### :small_blue_diamond: Tecnologias usadas no desenvolvimento:
 - linguagem Java no SpringBoot
-- banco de dados H2 para teste
-- banco de dados postgresql
+- Maven como gerenciador de dependências
+- Postman para teste de requisições
+- banco de dados H2 para test
 - JPA para acessar o banco de dados
 - Padrão do projeto Dao
-
+- Banco de dados relacional postgresql
+- 
 ##### :small_blue_diamond: Métodos para entidade orders:
 - inserir
 - deletar
