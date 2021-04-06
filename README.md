@@ -5,7 +5,7 @@
 - linguagem Java no SpringBoot
 - Maven como gerenciador de dependências
 - Postman para teste de requisições
-- banco de dados H2 para test
+- banco de dados H2 para teste
 - JPA para acessar o banco de dados
 - Padrão do projeto Dao
 - Banco de dados relacional postgresql
