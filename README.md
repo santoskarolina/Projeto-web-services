@@ -15,6 +15,8 @@
 - deletar
 - atualizar
 
-
 #### :small_blue_diamond: UML - Modelo de dominio
 ![UML](https://github.com/anna104016/Projeto-web-services/blob/main/weservices-uml.PNG)
+
+#### :small_blue_diamond: Modelo de camadas
+![UML](https://github.com/anna104016/Projeto-web-services/blob/main/camadas%20web.PNG)
