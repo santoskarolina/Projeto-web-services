@@ -18,8 +18,6 @@ import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 import com.example.ProjetoWebServices.entities.User;
 import com.example.ProjetoWebServices.services.UserService;
 
-import jdk.javadoc.doclet.Reporter;
-
 @RestController
 @RequestMapping(value="/users")
 public class UserResource {
