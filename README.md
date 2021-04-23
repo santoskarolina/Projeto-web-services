@@ -26,4 +26,4 @@
 ![UML](https://github.com/anna104016/Projeto-web-services/blob/main/weservices-uml.PNG)
 
 #### :small_blue_diamond: Modelo de camadas
-![UML](https://github.com/anna104016/Projeto-web-services/blob/main/camadas%20web.PNG)
+![UML](https://github.com/anna104016/html/blob/main/estrutura%20de%20camadas01.png)
